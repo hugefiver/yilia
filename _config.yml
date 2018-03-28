@@ -93,10 +93,10 @@ disqus: false
 
 #5、Gitment
 gitment_owner: hugefiver      #你的 GitHub ID
-gitment_repo: 'hugefiver_issue'          #存储评论的 repo
+gitment_repo: 'hf_gitment'          #存储评论的 repo
 gitment_oauth:
-  client_id: '32526724a5746a26e8f3'           #client ID
-  client_secret: '340e46c6d9b3cbab18c33a24d3058ac40edf6dec'       #client secret
+  client_id: '12c12d520244ac8c0556'           #client ID
+  client_secret: '84f92487469b5f7ef6961fd8ad51672b2408f8ea'       #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
