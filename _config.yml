@@ -2,8 +2,8 @@
 
 menu:
   主页: /
-  日常: /tags/日常
-  技术: /tags/技术
+  日常: /categories/日常
+  技术: /categories/技术
 
 # SubNav
 subnav:
@@ -101,7 +101,8 @@ gitment_oauth:
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
   # 头像上面的背景颜色
-  header: '#4d4d4d'
+  #header: '#4d4d4d'
+  header: 'FCD4F8'
   # 右滑板块背景
   slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
 
@@ -121,6 +122,6 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost/
+  友链不存在的: http://localhost/
 
-aboutme: Here am I.
+aboutme: '在读软件工程系本科生，生活中是名副其实的死宅。从没写过博客，这个博客架好的时候感觉很兴奋。'
