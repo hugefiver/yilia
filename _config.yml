@@ -4,6 +4,8 @@ menu:
   主页: /
   日常: /categories/日常
   技术: /categories/技术
+  全部文章: /archives/
+
 
 # SubNav
 subnav:
@@ -34,13 +36,13 @@ root: /
 # Content
 
 # 文章太长，截断按钮文字
-excerpt_link: more
+excerpt_link:  
 # 文章卡片右下角常驻链接，不需要请设置为false
 show_all_link: '下面还有呢'
 # 数学公式
 mathjax: false
 # 是否在新窗口打开链接
-open_in_new: false
+open_in_new: true
 
 # 打赏
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
@@ -56,7 +58,7 @@ weixin:
 # 目录设定：0-不显示目录； 1-文章对应的md文件里有toc:true属性，才有目录； 2-所有文章均显示目录
 toc: 1
 # 根据自己的习惯来设置，如果你的目录标题习惯有标号，置为true即可隐藏hexo重复的序号；否则置为false
-toc_hide_index: true
+toc_hide_index: false
 # 目录为空时的提示
 toc_empty_wording: '茵蒂克丝是不存在的哦'
 
@@ -64,12 +66,12 @@ toc_empty_wording: '茵蒂克丝是不存在的哦'
 top: true
 
 # Miscellaneous
-baidu_analytics: 'c86045a88dbe039f673d653ae35cf51e'
+baidu_analytics: '82785de88e6a7f7d7d1b69b58fe9fe4b'
 google_analytics: 'UA-116572316-1'
 favicon: /res/headImg.png
 
 #你的头像url
-avatar: https://i.yusa.me/L8SrGJLdNb6Q.png
+avatar: //i.yusa.me/L8SrGJLdNb6Q.png
 
 #是否开启分享
 share_jia: true
@@ -102,7 +104,7 @@ gitment_oauth:
 style:
   # 头像上面的背景颜色
   #header: '#4d4d4d'
-  header: 'FCD4F8'
+  header: '#4B9DDD'
   # 右滑板块背景
   slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
 
@@ -117,11 +119,13 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: '所有文章'
+  innerArchive: '时间轴'
+  #categories: '分类'
   friends: '友链'
   aboutme: '关于我'
+
 
 friends:
   友链不存在的: http://localhost/
 
-aboutme: '在读软件工程系本科生，生活中是名副其实的死宅。从没写过博客，这个博客架好的时候感觉很兴奋。'
+aboutme: '在读软件工程系本科生，生活中是死宅。从没写过博客，这个博客架好的时候感觉很兴奋。'
