@@ -4,7 +4,7 @@ menu:
   主页: /
   日常: /categories/日常
   技术: /categories/技术
-  全部文章: /archives/
+  时间轴: /archives/
 
 
 # SubNav
@@ -20,7 +20,7 @@ subnav:
   #segmentfault: "#"
   bilibili: "https://space.bilibili.com/6760300/"
   #acfun: "#"
-  #mail: "#"
+  mail: "hugefivercn@gmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -111,7 +111,7 @@ style:
 # slider的设置
 slider:
   # 是否默认展开tags板块
-  showTags: true
+  showTags: false
 
 # 智能菜单
 # 如不需要，将该对应项置为false
@@ -119,7 +119,7 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: '时间轴'
+  innerArchive: '检索'
   #categories: '分类'
   friends: '友链'
   aboutme: '关于我'
