@@ -11,7 +11,6 @@ menu:
 subnav:
   github: "https://www.github.com/hugefiver/"
   #weibo: "#"
-  #rss: "#"
   #zhihu: "#"
   #qq: "#"
   #weixin: "#"
@@ -25,6 +24,7 @@ subnav:
   #google: "#"
   #twitter: "#"
   #linkedin: "#"
+  rss: "/atom.xml"
 
 rss: /atom.xml
 
