@@ -9,7 +9,7 @@ menu:
 
 # SubNav
 subnav:
-  github: "https://www.github.com/hugefiver/"
+  github: "https://github.com/hugefiver/"
   #weibo: "#"
   #zhihu: "#"
   #qq: "#"
@@ -55,7 +55,7 @@ alipay:
 weixin: 
 
 # 目录
-# 目录设定：0-不显示目录；65543f9c824d24311f44fa5d 1-文章对应的md文件里有toc:true属性，才有目录； 2-所有文章均显示目录
+# 目录设定：0-不显示目录; 1-文章对应的md文件里有toc:true属性，才有目录； 2-所有文章均显示目录
 toc: 1
 # 根据自己的习惯来设置，如果你的目录标题习惯有标号，置为true即可隐藏hexo重复的序号；否则置为false
 toc_hide_index: false
@@ -126,6 +126,7 @@ smart_menu:
 
 
 friends:
-  友链不存在的: http://localhost/
+  万能的yandalao: http://晏大佬.tk/
+  终于有友链啦: http://localhost/
 
-aboutme: '在读软件工程系本科生，生活中是死宅。从没写过博客，这个博客架好的时候感觉很兴奋。'
+aboutme: '在读软件工程系本科生，生活中是死宅。徘徊在不及格和不及格之中。'
