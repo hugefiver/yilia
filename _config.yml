@@ -67,7 +67,7 @@ toc_empty_wording: '茵蒂克丝是不存在的哦'
 top: true
 
 # Miscellaneous
-baidu_analytics: 'e55b540a65543f9c824d24311f44fa5d'
+baidu_analytics:
 google_analytics: 'UA-116572316-1'
 favicon: /res/headImg.png
 
